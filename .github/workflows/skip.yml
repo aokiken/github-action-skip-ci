@@ -3,7 +3,7 @@ name: Skip CI
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   jobA:
